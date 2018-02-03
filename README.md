@@ -2,7 +2,6 @@
 
 Getting & Cleaning Data 
 =================================================================================
-
 By D.A., and based on dataset data provided in course from:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
