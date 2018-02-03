@@ -70,6 +70,6 @@ tidy.data.means <- merged.data.extract %>%
     group_by(Activity, SubjectID) %>%  # group by activity and subjects
     summarise_all(funs(mean)) # compute mean of all variables (with the exception of the grouping variables)
 
-write.table(tidy.data.means, file = "mean_readings_by_activity.txt") # write dataset to file
+write.table(tidy.data.means, file = "mean_readings_by_activity.txt", row.names = F) # write dataset to file
 
 
