@@ -2,11 +2,17 @@
 Getting & Cleaning Data 
 =================================================================================
 By D.A., and based on dataset data provided in course from:
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+
 Smartlab - Non Linear Complex Systems Laboratory
+
 DITEN - Università degli Studi di Genova.
+
 Via Opera Pia 11A, I-16145, Genoa, Italy.
+
 activityrecognition@smartlab.ws
+
 www.smartlab.ws
 ================================================================================
 
