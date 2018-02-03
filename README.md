@@ -3,7 +3,7 @@
 Getting & Cleaning Data 
 =================================================================================
 
-Based on dataset data provided in course from:
+by D.A., and based on dataset data provided in course from:
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -69,4 +69,4 @@ The dataset is cleaned in the following steps:
 
 - use dplyr to group data by *Activity* and *SubjectID* and calculate mean
 
-THe output of these activities is in the file: mean_readings_by_activity.txt
+The output of these activities is in the file: mean_readings_by_activity.txt
